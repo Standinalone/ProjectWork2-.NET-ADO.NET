@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="library2.MyToolBar">
+    <Position X="7" Y="5.75" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="library2.MyToolBar.FormWithFields">
+        <Compartments>
+          <Compartment Name="Fields" Collapsed="true" />
+          <Compartment Name="Methods" Collapsed="true" />
+          <Compartment Name="Nested Types" Collapsed="false" />
+        </Compartments>
+        <NestedTypes>
+          <Class Name="library2.MyToolBar.FormWithFields.LabelAndControls" Collapsed="true">
+            <Compartments>
+              <Compartment Name="Fields" Collapsed="true" />
+              <Compartment Name="Methods" Collapsed="true" />
+            </Compartments>
+            <TypeIdentifier>
+              <NewMemberFileName>MyToolBar.cs</NewMemberFileName>
+            </TypeIdentifier>
+          </Class>
+        </NestedTypes>
+        <TypeIdentifier>
+          <NewMemberFileName>MyToolBar.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="library2.MyToolBar.FindingForm">
+        <Compartments>
+          <Compartment Name="Fields" Collapsed="true" />
+          <Compartment Name="Methods" Collapsed="true" />
+          <Compartment Name="Nested Types" Collapsed="false" />
+        </Compartments>
+        <NestedTypes>
+          <Class Name="library2.MyToolBar.FindingForm.ComboboxItem" Collapsed="true">
+            <TypeIdentifier>
+              <NewMemberFileName>MyToolBar.cs</NewMemberFileName>
+            </TypeIdentifier>
+          </Class>
+        </NestedTypes>
+        <TypeIdentifier>
+          <NewMemberFileName>MyToolBar.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AIAEAIIAAAAAAGQIABRAJFgSAAIAAcAABgBAEAABIAE=</HashCode>
+      <FileName>MyToolBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="library2.ComboDataGridView" Collapsed="true">
+    <Position X="9.25" Y="11.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAIAEAkAAAABABAAAAAA4BgAEAAAAEAAACAA=</HashCode>
+      <FileName>ComboDataGridView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="library2.DataGridViews.Addresses" Collapsed="true">
+    <Position X="11.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAgAAAAABAEAAAAAAIAAIEAAAAAAAAIAAAIAAAAA=</HashCode>
+      <FileName>DataGridViews\Addresses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="library2.DataGridViews.Authors" Collapsed="true">
+    <Position X="13" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEBAgAIAAAIAAAAAAAAAAAAAAAAAIiAAAA=</HashCode>
+      <FileName>DataGridViews\Authors.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="library2.Form1">
+    <Position X="4" Y="5.75" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="library2.Form1.Kit">
+        <Compartments>
+          <Compartment Name="Methods" Collapsed="true" />
+        </Compartments>
+        <TypeIdentifier>
+          <NewMemberFileName>Form1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AYSaAP2KqTABxScDIDOnMMVyIAAoNCAjCg1gWaABpFQ=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.DataGridView" Collapsed="true">
+    <Position X="13" Y="8.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="library2.DataGridViews.Chronology" Collapsed="true">
+    <Position X="9.25" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAQAAABgAIAAAAAAACAAAICAAAAAQAAAIgAAAA=</HashCode>
+      <FileName>DataGridViews\Chronology.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="library2.DataGridViews.Copies" Collapsed="true">
+    <Position X="9.25" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAIAAAABAQAAAAAAgABAgAAAAUAgFAKAAIAAAIA=</HashCode>
+      <FileName>DataGridViews\Copies.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="library2.DataGridViews.Debentures" Collapsed="true">
+    <Position X="9.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAwAFAAAAAAAAAgBBAAgABEAEAAIAQIAAAAA=</HashCode>
+      <FileName>DataGridViews\Debentures.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="library2.DataGridViews.Editions" Collapsed="true">
+    <Position X="11" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAACIoAwABAAAQAAAAAgBAwADCAAIAhEQAEIgIIAg=</HashCode>
+      <FileName>DataGridViews\Editions.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="library2.DataGridViews.EditionsKeywords" Collapsed="true">
+    <Position X="11.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABEAQAAAAAAAAKBAAAARAQQEIAAAAAAAA=</HashCode>
+      <FileName>DataGridViews\EditionsKeywords.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="library2.DataGridViews.Localities" Collapsed="true">
+    <Position X="11" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAACAAAiBAAAAAAAACAAAAAQAIAAQAAAAAIgAAAA=</HashCode>
+      <FileName>DataGridViews\Localities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="library2.DataGridViews.Publishers" Collapsed="true">
+    <Position X="12.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAABCAAAAAAAAAAAAAAAAAAAgAAAAIgAQgA=</HashCode>
+      <FileName>DataGridViews\Publishers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="library2.DataGridViews.Readers" Collapsed="true">
+    <Position X="13" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BABgAAAAAAEBEgAAQgBAEgAQAAAAAAAACAAAAIgAAUA=</HashCode>
+      <FileName>DataGridViews\Readers.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="library2.DataGridViews.Staff" Collapsed="true">
+    <Position X="9.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACDAAAABAQEFEgAIAgAIAAAQAAAAAAAIAAAAAIgAIEA=</HashCode>
+      <FileName>DataGridViews\Staff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="library2.DataGridViews.Streets" Collapsed="true">
+    <Position X="12.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAIAAABAAACIAIAAAAAAAAAIAAAAAIAAIgAQAA=</HashCode>
+      <FileName>DataGridViews\Streets.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.BindingNavigator" Collapsed="true">
+    <Position X="5" Y="11.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="library2.SettingsClass" Collapsed="true">
+    <Position X="12.25" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQEAAAAAAAEAAAAAAABAAAQAAAAACAEAAAAAAAAAQ=</HashCode>
+      <FileName>SettingsClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="library2.DataGridViews.IHaveinfo">
+    <Position X="6.75" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataGridViews\IHaveinfo.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="library2.DataGridViews.IHaveMoreInfo">
+    <Position X="10.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataGridViews\IHaveMoreInfo.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="library2.DataGridViews.IHavetrivia">
+    <Position X="5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataGridViews\IHavetrivia.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="library2.DataGridViews.ISelectable">
+    <Position X="8.5" Y="12.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataGridViews\ISelectable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
